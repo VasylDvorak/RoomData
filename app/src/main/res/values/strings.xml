@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomData</string>
+    <string name="Title">Текущий запрос на поиск в кинотеатре нажмите GET</string>
+</resources>
